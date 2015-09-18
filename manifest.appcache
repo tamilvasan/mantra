@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-09-14T02:15:58.451Z
+# rev 1 - 2015-09-18T12:56:20.498Z
 
 CACHE:
 bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.eot
@@ -7,10 +7,12 @@ bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halfl
 bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf
 bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.woff
 bower_components/requirejs/require.js
+bower_components/xdLocalStorage/dist/scripts/xdLocalStoragePostMessageApi.min.js
 img/bg_grid.png
 img/circle.png
+import.html
 index.html
-scripts/1001fe64.main.js
+scripts/57003da7.main.js
 scripts/vendor/a8bcb0b6.modernizr.js
 styles/b969622f.main.css
 
