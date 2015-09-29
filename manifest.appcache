@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-09-27T20:28:19.597Z
+# rev 1 - 2015-09-29T02:08:23.209Z
 
 CACHE:
 bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.eot
@@ -14,7 +14,7 @@ import.html
 index.html
 scripts/92b497c8.main.js
 scripts/vendor/a8bcb0b6.modernizr.js
-styles/003825b7.main.css
+styles/f5415e34.main.css
 
 NETWORK:
 *
