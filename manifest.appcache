@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-09-25T02:01:04.999Z
+# rev 1 - 2016-09-25T02:10:28.948Z
 
 CACHE:
 bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.eot
@@ -7,6 +7,26 @@ bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halfl
 bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf
 bower_components/bootstrap-sass-official/assets/fonts/bootstrap/glyphicons-halflings-regular.woff
 bower_components/requirejs/require.js
+bower_components/stylie/app/img/README.md
+bower_components/stylie/app/img/arrow_active.png
+bower_components/stylie/app/img/arrow_inactive.png
+bower_components/stylie/app/img/bezier_editing.png
+bower_components/stylie/app/img/bg_grab-shadow.png
+bower_components/stylie/app/img/bg_grid.png
+bower_components/stylie/app/img/bg_header.png
+bower_components/stylie/app/img/block.png
+bower_components/stylie/app/img/bubble.png
+bower_components/stylie/app/img/circle.png
+bower_components/stylie/app/img/css_export.png
+bower_components/stylie/app/img/dotted-line.png
+bower_components/stylie/app/img/group_selection.png
+bower_components/stylie/app/img/keyframe_editing.png
+bower_components/stylie/app/img/keyframes_tab.png
+bower_components/stylie/app/img/mantra.png
+bower_components/stylie/app/img/rekapi_export.png
+bower_components/stylie/app/img/save_load.png
+bower_components/stylie/app/img/shift_example.png
+bower_components/stylie/app/img/stylie_logo.png
 bower_components/xdLocalStorage/dist/scripts/xdLocalStoragePostMessageApi.min.js
 img/bg_grid.png
 img/circle.png
